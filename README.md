@@ -1,5 +1,5 @@
 # Hi there :)
-I am Ayoub ELHAREM ^_^ ,a full stack developper , online instructor & a developper student at @EST (superior School of Technology) in Morocco . Iam intersted to learn a new technologie at developping  especially application desctop, web and mobile. 
+I am Ayoub ELHAREM ^_^ ,a full stack developper , online instructor & a developper student at @EST (superior School of Technology) in Morocco . I am intersted to learn a new technologie at developping  especially application desktop, web and mobile. 
 # 🛠  Tech Stack :
 <ul>
   <li>💻    C++ | C | Java | Javascript | php</li>
@@ -7,6 +7,7 @@ I am Ayoub ELHAREM ^_^ ,a full stack developper , online instructor & a developp
   <li>🔧   Git </li>
   <li> 🖥   Adobe XD | Photoshop | illustrator </li>
   <li> ✍️   Visual studio code | IntelliJ IDEA | netbeans | oracle </li>
+  <li><i link="https://icons8.com/icon/lRjcvhvtR81o/laravel">   Laravel</i></li>
 </ul>
 
 # ❤️ Interests :
