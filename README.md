@@ -7,7 +7,7 @@ I am Ayoub ELHAREM ^_^ ,a full stack developper , online instructor & a developp
   <li>🔧   Git </li>
   <li> 🖥   Adobe XD | Photoshop | illustrator </li>
   <li> ✍️   Visual studio code | IntelliJ IDEA | netbeans | oracle </li>
-  <li><i link="https://icons8.com/icon/lRjcvhvtR81o/laravel">   Laravel</i></li>
+  <li><i href="https://icons8.com/icon/lRjcvhvtR81o/laravel">   Laravel</i></li>
 </ul>
 
 # ❤️ Interests :
